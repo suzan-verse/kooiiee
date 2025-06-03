@@ -8,7 +8,7 @@ print("Hello World")
 name="SUJAN KHADKA"
 age=20
 height=5.8
-hobby="football,baketball,coding python"
+hobby="football,baketball,coding python, barista"
 feeling_rn=True
 print(f"""HI, MY NAME IS {name} and I am {age} years old.
      My hobbies are {hobby} and height is {height}ft.""")  #fstring for smart printing
